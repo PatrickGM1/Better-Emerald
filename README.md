@@ -22,18 +22,18 @@ A Minecraft mod that enhances the utility of emeralds by introducing new powerfu
 
 An Empowered Emerald is crafted using **8 emeralds** and **1 nether star**. It serves as a core component for advanced items.
 
-![Empowered Emerald](./recipes/empowered_emerald.png)
+![Empowered Emerald](./recipes/Empowered_Emerald.png)
 ### Emerald Apple
 
 The Emerald Apple is crafted by surrounding a **golden apple** with **8 emeralds**. Consuming it grants special effects.
 
-![Emerald Apple](./recipes/emerald_apple.png)
+![Emerald Apple](./recipes/Emerald_Apple.png)
 
 ### Enchanted Emerald Apple
 
 Crafted by surrounding an **Emerald Apple** with **8 Empowered Emeralds**. It provides even greater effects upon consumption.
 
-![Enchanted Emerald Apple](./recipes/enchanted_emerald_apple.png)
+![Enchanted Emerald Apple](./recipes/Enchanted_Emerald_Apple.png)
 
 ---
 
