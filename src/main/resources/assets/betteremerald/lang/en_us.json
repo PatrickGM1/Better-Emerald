@@ -2,5 +2,7 @@
   "itemGroup.betteremerald.emerald_tab": "Better Emerald",
   "item.betteremerald.emerald_apple": "Emerald Apple",
   "item.betteremerald.enchanted_emerald_apple": "Enchanted Emerald Apple",
-  "item.betteremerald.emerald_sword": "Emerald Sword"
+  "item.betteremerald.emerald_sword": "Emerald Sword",
+  "item.betteremerald.empowered_emerald": "Empowered Emerald",
+  "item.betteremerald.empowered_emerald.tooltip": "A rare gem infused with immense power."
 }

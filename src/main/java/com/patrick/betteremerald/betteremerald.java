@@ -53,6 +53,14 @@ public class betteremerald {
         }
     });
 
+    //register the Empowered Emerald
+    public static final RegistryObject<Item> EMPOWERED_EMERALD = ITEMS.register("empowered_emerald",
+            () -> new Item(new Item.Properties()) {
+                @Override
+                public boolean isFoil(ItemStack stack) {
+                    return true;
+                }
+            });
 
     // Create the Creative Tab
     public static final RegistryObject<CreativeModeTab> EMERALD_TAB = CREATIVE_MODE_TABS.register("emerald_tab", () -> CreativeModeTab.builder()
@@ -62,6 +70,7 @@ public class betteremerald {
             .displayItems((parameters, output) -> {
                 output.accept(EMERALD_APPLE.get());
                 output.accept(ENCHANTED_EMERALD_APPLE.get());
+                output.accept(EMPOWERED_EMERALD.get());
             }).build());
 
     public betteremerald() {

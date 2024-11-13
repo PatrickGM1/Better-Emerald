@@ -7,14 +7,14 @@
   ],
   "key": {
     "E": {
-      "item": "minecraft:emerald"
+      "item": "betteremerald:empowered_emerald"
     },
     "A": {
-      "item": "minecraft:golden_apple"
+      "item": "betteremerald:emerald_apple"
     }
   },
   "result": {
-    "id": "betteremerald:emerald_apple",
+    "id": "betteremerald:enchanted_emerald_apple",
     "count": 1
   }
 }
