@@ -1,0 +1,27 @@
+modLoader="javafml"
+loaderVersion="[47,)" # Example Forge version range for 1.20.x
+license="MIT"
+issueTrackerURL="https://github.com/yourusername/betteremerald/issues"
+
+[[mods]]
+modId="betteremerald"
+version="1.0.0"
+displayName="Better Emerald"
+authors="PatrickGM"
+description='''
+Better Emerald Mod adds new emerald-based blocks, items, and creative tabs to enhance your Minecraft experience.
+'''
+
+[[dependencies.betteremerald]]
+modId="forge"
+mandatory=true
+versionRange="[47,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.betteremerald]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.6,)"
+ordering="NONE"
+side="BOTH"
