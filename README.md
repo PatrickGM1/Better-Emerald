@@ -1,14 +1,13 @@
 # Better-Emerald
 # Better Emerald Mod
 
-A Minecraft mod that enhances the utility of emeralds by introducing new powerful items and crafting recipes. Unlock the true potential of emeralds with the Empowered Emerald, craft potent Emerald Apples, wield the mighty Emerald Sword, and experience the unparalleled benefits of the Enchanted Emerald Apple.
+A Minecraft mod that enhances the utility of emeralds by introducing new powerful items and crafting recipes. Unlock the true potential of emeralds with the Empowered Emerald, craft potent Emerald Apples, and experience the unparalleled benefits of the Enchanted Emerald Apple.
 
 ## Features
 
 - **Empowered Emerald**: A rare gem infused with immense power, crafted using emeralds and a nether star.
 - **Emerald Apple**: A nutritious fruit that grants special effects when consumed, crafted with emeralds and a golden apple.
 - **Enchanted Emerald Apple**: An even more potent version of the emerald apple, providing greater benefits, crafted using empowered emeralds and an emerald apple.
-- **Emerald Sword**: A powerful weapon forged from emerald blocks and a netherite sword.
 
 ## Installation
 
@@ -41,11 +40,6 @@ Crafted by surrounding an **Emerald Apple** with **8 Empowered Emeralds**. It pr
 ## License
 
 This mod is open-source and available under the [MIT License](LICENSE).
-
-## Contact
-
-For any inquiries or support, please contact [Your Name](mailto:your.email@example.com).
-
 ---
 
 Enjoy the enhanced capabilities of emeralds and have fun exploring new possibilities in your Minecraft world!
